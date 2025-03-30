@@ -73,13 +73,3 @@ The detection model was trained on a custom dataset of firearms in various envir
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 📞 Contact
-
-For questions or collaboration opportunities, please reach out at:
-- Email: your.email@example.com
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-
----
-
-*This project is intended for legitimate security applications and research purposes only.*
