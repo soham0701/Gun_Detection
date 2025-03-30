@@ -1,6 +1,6 @@
 # Advanced Weapon Detection System
 
-![Gun Detection Demo](https://i.imgur.com/example.jpg) <!-- You would replace this with your actual hosted image -->
+![Gun Detection Demo](usecase.png) 
 
 ## Overview
 
